@@ -2,6 +2,6 @@ Micha Denissen
 
 Dit is een wijziging op de server
 
+Gewijzigd lokaal
 
-
-Op de server
+Dit wordt em
